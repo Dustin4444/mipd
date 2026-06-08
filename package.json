@@ -86,7 +86,7 @@
     "typescript": "^5.0.4",
     "viem": "^2.9.1",
     "vite": "^4.3.9",
-    "vitest": "^0.32.2"
+    "vitest": "^3.2.6"
   },
   "contributors": [
     "jxom.eth <j@wagmi.sh>",
